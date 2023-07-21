@@ -1,5 +1,7 @@
 # Sistema de Eventos (EventSY)
 
+Sistema para criação e controle de eventos.
+
 ### Comandos:
 + `/cevento` - Cria um evento
 + `/rvagas` - Remove vagas para participar do evento

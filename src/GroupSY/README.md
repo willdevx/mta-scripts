@@ -1,5 +1,7 @@
 # Sistema de Grupos (GroupSY)
 
+Sistema para gerenciamento de grupos (Gangues e Corporações) com painel.
+
 ### Comandos:
 + `Z` - Abrir/fechar painel de gerenciamento do grupo
 + `/aceitar` - Aceitar convite para participar do grupo
