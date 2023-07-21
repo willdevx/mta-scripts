@@ -22,4 +22,4 @@ Hoje resolvi compartilhar todos os sistemas que desenvolvi para quem quiser baix
 ## License
 [MIT License](https://github.com/willdevx/mta-scripts/blob/main/LICENSE)
 
-Copyright (c) 2017 [William Carneiro](https://www.instagram.com/williamcarnneiro).
+Copyright (c) 2023 [William Carneiro](https://www.instagram.com/williamcarnneiro).
