@@ -1,6 +1,7 @@
 # mta-scripts
 ![version](https://img.shields.io/badge/version-1.2.0-blue)
 ![mta](https://img.shields.io/badge/MTA->=%201.5.2-orange)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Mods para Servidor de Multi Theft Auto: San Andreas (MTA).
 
@@ -17,3 +18,8 @@ Hoje resolvi compartilhar todos os sistemas que desenvolvi para quem quiser baix
 + Yurley
 + Players do servidor Brasileiros na Fixa (BNF™)
 + Players do servidor Brasileiros Vivendo No Fluxo (BVF™)
+
+## License
+[MIT License](https://github.com/willdevx/mta-scripts/blob/main/LICENSE)
+
+Copyright (c) 2017 [William Carneiro](https://www.instagram.com/williamcarnneiro).
