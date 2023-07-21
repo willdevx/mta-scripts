@@ -1,3 +1,6 @@
+![version](https://img.shields.io/badge/version-1.2.0-blue)
+![mta](https://img.shields.io/badge/MTA->=%201.5.2-orange)
+
 # mta-scripts
 Mods para Servidor de Multi Theft Auto: San Andreas (MTA).
 
