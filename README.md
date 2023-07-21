@@ -1,7 +1,7 @@
+# mta-scripts
 ![version](https://img.shields.io/badge/version-1.2.0-blue)
 ![mta](https://img.shields.io/badge/MTA->=%201.5.2-orange)
 
-# mta-scripts
 Mods para Servidor de Multi Theft Auto: San Andreas (MTA).
 
 Olá, aqui é o Namykazesz!! Em 2017 criei mais de 40 Mods para um jogo de código aberto chamado MTA SA, onde participava da equipe de um servidor onde conheci vários amigos incríveis e compartilhei grandes momentos 💖
