@@ -1,0 +1,6 @@
+<meta>
+    <info author="Namykaze" type="script" name="Sistema de Eventos" version="2.0" />
+    <oop>true</oop>
+	<script src="eventsy.lua" type="server" />
+	<min_mta_version client="1.5.2-9.07903" server="1.5.2-9.07903" />
+</meta>
