@@ -1,6 +1,6 @@
 ﻿--[[-----------------------------------------
 -- This resource was created by Namykazesz.
--- (c) 2017-2018 BnF Server. All rights reserverd.
+-- (c) 2017-2018 BnF Server. All rights reserved.
 --]]-----------------------------------------
 
 -- initial properties
