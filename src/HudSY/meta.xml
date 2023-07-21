@@ -1,0 +1,46 @@
+<meta>
+	<info author="Namykaze" name="Sistema da HUD" version="1.0.0" />
+	<script src="client.lua" type="client" />
+	<min_mta_version client="1.5.2-9.07903" server="1.5.2-9.07903" />
+	<file src="img/m4.png" />
+	<file src="img/brassknuckle.png" />
+	<file src="img/golfclub.png" />
+	<file src="img/nightstick.png" />
+	<file src="img/knife.png" />
+	<file src="img/bat.png" />
+	<file src="img/shovel.png" />
+	<file src="img/poolstick.png" />
+	<file src="img/katana.png" />
+	<file src="img/chainsaw.png" />
+	<file src="img/colt 45.png" />
+	<file src="img/silenced.png" />
+	<file src="img/deagle.png" />
+	<file src="img/shotgun.png" />
+	<file src="img/sawed-off.png" />
+	<file src="img/combat shotgun.png" />
+	<file src="img/uzi.png" />
+	<file src="img/mp5.png" />
+	<file src="img/tec-9.png" />
+	<file src="img/ak-47.png" />
+	<file src="img/rifle.png" />
+	<file src="img/sniper.png" />
+	<file src="img/rocket launcher.png" />
+	<file src="img/rocket launcher hs.png" />
+	<file src="img/flamethrower.png" />
+	<file src="img/minigun.png" />
+	<file src="img/grenade.png" />
+	<file src="img/teargas.png" />
+	<file src="img/molotov.png" />
+	<file src="img/satchel.png" />
+	<file src="img/spraycan.png" />
+	<file src="img/fire extinguisher.png" />
+	<file src="img/camera.png" />
+	<file src="img/dildo.png" />
+	<file src="img/vibrator.png" />
+	<file src="img/flower.png" />
+	<file src="img/cane.png" />
+	<file src="img/nightvision.png" />
+	<file src="img/infrared.png" />
+	<file src="img/parachute.png" />
+	<file src="img/bomb.png" />
+</meta>
