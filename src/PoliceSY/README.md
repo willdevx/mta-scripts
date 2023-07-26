@@ -4,6 +4,8 @@ Sistema de polícia com opção de revistar, prender, algemar e limpar ficha de 
 
 Para interagir com os comandos, a polícia deve estar próxima ao player.
 
+O player procurado tem a opção de limpar o seu nível de procurado na delegacia, o local é exibido em um marker e um ícone no mapa.
+
 ### Comandos:
 + `/revistar` [PLAYER_ID] - Revista o player e exibe o seu nível de procurado no Chat
 + `/prender` [PLAYER_ID] - Prende o player caso esteja procurado
