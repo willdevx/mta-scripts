@@ -1,0 +1,8 @@
+<meta>
+	<info author="Namykaze" name="Transferidor de Dinheiro" version="1.0.0" />
+	<oop>true</oop>
+	<script src="client-config.lua" type="client" />
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+	<min_mta_version client="1.5.2-9.07903" server="1.5.2-9.07903" />
+</meta>
