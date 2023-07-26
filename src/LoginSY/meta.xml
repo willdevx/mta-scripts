@@ -1,0 +1,7 @@
+<meta>
+	<info author="Namykaze" name="Sistema de Login" version="4.0.0" />
+	<oop>true</oop>
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+	<min_mta_version client="1.5.2-9.07903" server="1.5.2-9.07903" />
+</meta>
