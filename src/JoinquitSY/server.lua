@@ -70,10 +70,6 @@ reasons =
 	["Timed out"] = "Conexão perdida",
 }
 
--- this will show the resource info to the player
-outputChatBox("#F2F2F2(c) "..resourceCreationDate.." - #FFFFFF"..resourceOfficialName.." #F2F2F2(licenciado para BnF™) pelo criador #FF0000Namykaze#F2F2F2.", getRootElement(), 255, 255, 255, true)
-outputChatBox(resourceOfficialName..": "..resourceDescription.." iniciado.")
-
 -- this will show when the player enter to the server
 function joinPlayer()
 	thePlayer = getPlayerName(source)
